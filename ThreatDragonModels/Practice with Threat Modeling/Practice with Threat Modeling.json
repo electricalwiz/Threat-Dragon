@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Practice with Threat Modeling",
+    "owner": "Paul Johnson"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test Run",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
